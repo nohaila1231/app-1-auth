@@ -1,1 +1,1 @@
-console.log('Auth Service démarré congraaaaaaaaaats ! ');
+console.log('Auth Service démarré congraaats ! ');
